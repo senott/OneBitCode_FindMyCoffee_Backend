@@ -41,3 +41,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'activerecord-postgis-adapter', '~> 6.0', '>= 6.0.1'
+gem 'rest-client', '~> 2.1'
