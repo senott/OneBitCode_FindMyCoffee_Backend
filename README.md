@@ -1,6 +1,6 @@
 # README
 
-* Ruby version: ruby 2.7.1p83
+* Ruby version: 2.7.1p83
 
 * System dependencies
 
